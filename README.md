@@ -1,2 +1,2 @@
 # simple-boiler
-A simple react app with typescript, esbuild and local/network serverving
+A simple react app with typescript, esbuild and local/network servering
